@@ -11,24 +11,22 @@
 - 🔄 **실시간 피드백**: 답변 즉시 평가와 개선점 제시
 - 📈 **성장 추적**: 약점 분석과 맞춤형 학습 경로 제공
 
-## 🚀 빠른 시작 (1분 설정)
+## 🚀 빠른 시작 (30초 설정)
 
 ### 필요한 것
-- [Claude Code](https://claude.ai/code) 구독
-- Git
+- [Claude Code](https://claude.ai/code) 구독만 있으면 됩니다!
 
-### 3단계로 시작하기
+### Claude Code에서 바로 시작하기
 
-#### 1️⃣ 다운로드
-```bash
-git clone https://github.com/yourusername/CS-Study.git
-cd CS-Study
-./init.sh
+#### 1️⃣ Claude Code에서 복사-붙여넣기
+```
+git clone https://github.com/yourusername/CS-Study.git && cd CS-Study && ./init.sh
 ```
 
-#### 2️⃣ Claude Code 열기
-1. [Claude Code](https://claude.ai/code) 접속
-2. `File > Open Folder` → CS-Study 폴더 선택
+#### 2️⃣ 폴더 열기
+```
+/open CS-Study
+```
 
 #### 3️⃣ 바로 대화 시작!
 ```
@@ -37,6 +35,16 @@ cd CS-Study
 ```
 
 > ✨ **CLAUDE.md 파일이 자동으로 인식되어 AI 튜터가 즉시 활성화됩니다!**
+
+### 또는 터미널에서 설정
+```bash
+# 터미널에서 직접 실행
+git clone https://github.com/yourusername/CS-Study.git
+cd CS-Study
+./init.sh
+
+# Claude Code에서 /open CS-Study 입력
+```
 
 ### 4. (선택) Obsidian 연동
 

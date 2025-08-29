@@ -79,13 +79,9 @@ echo "╔═══════════════════════�
 echo "║        ✅ 초기화 완료!                 ║"
 echo "╚════════════════════════════════════════╝"
 echo ""
-echo -e "${GREEN}🚀 시작 방법:${NC}"
+echo -e "${GREEN}🚀 Claude Code에서 바로 시작하세요!${NC}"
 echo ""
-echo "1. Claude Code 열기 (https://claude.ai/code)"
-echo "2. File > Open Folder > 현재 CS-Study 폴더 선택"
-echo "3. 바로 대화 시작!"
-echo ""
-echo -e "${YELLOW}💬 첫 대화 예시:${NC}"
+echo -e "${YELLOW}💬 바로 대화 시작:${NC}"
 echo '   "오늘 운영체제 공부하자"'
 echo '   "프로세스와 스레드 차이점 물어봐줘"'
 echo '   "네트워크 OSI 7계층 설명해줘"'
@@ -94,6 +90,9 @@ echo -e "${BLUE}📚 학습 팁:${NC}"
 echo '   • 막히면: "힌트 주세요"'
 echo '   • 평가받기: "내 답변 평가해줘"'
 echo '   • 정리하기: "오늘 배운 내용 정리해줘"'
+echo ""
+echo -e "${GREEN}📝 모든 대화는 자동으로 저장됩니다!${NC}"
+echo "   sessions/ 폴더에 날짜별로 정리"
 echo ""
 echo "행운을 빕니다! 화이팅! 💪"
 echo ""
