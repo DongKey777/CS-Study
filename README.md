@@ -200,9 +200,3 @@ WHERE, ORDER BY, JOIN 조건에 사용됩니다."
 ## 📝 라이센스
 
 MIT License - 자유롭게 사용하고 수정하세요!
-
-
-**만든이**: [@yourusername](https://github.com/yourusername)  
-**문의**: your.email@example.com
-
-> 💪 "매일 조금씩, 꾸준히 성장하기"
