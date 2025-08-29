@@ -11,29 +11,30 @@
 - 🔄 **실시간 피드백**: 답변 즉시 평가와 개선점 제시
 - 📈 **성장 추적**: 약점 분석과 맞춤형 학습 경로 제공
 
-## 🚀 시작하기
+## 🚀 빠른 시작 (2분 설정)
 
 ### 1. 필수 요구사항
 - [Claude Code](https://claude.ai/code) 구독
 - Git
-- (선택) Obsidian - 학습 노트 시각화용
 
-### 2. 설치
+### 2. 설치 및 실행
 
 ```bash
 # 레포지토리 클론
 git clone https://github.com/yourusername/CS-Study.git
 cd CS-Study
 
-# 폴더 구조 초기화
-mkdir -p sessions topics/{operating-system,network,database,data-structure} analysis obsidian
+# 초기화 스크립트 실행
+./init.sh
 ```
 
-### 3. Claude Code 설정
+### 3. Claude Code에서 시작
 
-1. Claude Code 열기
-2. 프로젝트 폴더 열기: `File > Open Folder > CS-Study`
-3. CLAUDE.md 파일이 자동으로 인식됩니다
+1. [Claude Code](https://claude.ai/code) 열기
+2. `File > Open Folder` → 방금 클론한 CS-Study 폴더 선택
+3. **바로 대화 시작!** 예: "오늘 운영체제 공부하자"
+
+> 💡 **CLAUDE.md 파일이 자동으로 인식되어 학습 시스템이 즉시 활성화됩니다!**
 
 ### 4. (선택) Obsidian 연동
 
