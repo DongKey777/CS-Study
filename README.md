@@ -11,30 +11,32 @@
 - 🔄 **실시간 피드백**: 답변 즉시 평가와 개선점 제시
 - 📈 **성장 추적**: 약점 분석과 맞춤형 학습 경로 제공
 
-## 🚀 빠른 시작 (2분 설정)
+## 🚀 빠른 시작 (1분 설정)
 
-### 1. 필수 요구사항
+### 필요한 것
 - [Claude Code](https://claude.ai/code) 구독
 - Git
 
-### 2. 설치 및 실행
+### 3단계로 시작하기
 
+#### 1️⃣ 다운로드
 ```bash
-# 레포지토리 클론
 git clone https://github.com/yourusername/CS-Study.git
 cd CS-Study
-
-# 초기화 스크립트 실행
 ./init.sh
 ```
 
-### 3. Claude Code에서 시작
+#### 2️⃣ Claude Code 열기
+1. [Claude Code](https://claude.ai/code) 접속
+2. `File > Open Folder` → CS-Study 폴더 선택
 
-1. [Claude Code](https://claude.ai/code) 열기
-2. `File > Open Folder` → 방금 클론한 CS-Study 폴더 선택
-3. **바로 대화 시작!** 예: "오늘 운영체제 공부하자"
+#### 3️⃣ 바로 대화 시작!
+```
+"오늘 운영체제 공부하자"
+"프로세스와 스레드 차이점 물어봐줘"
+```
 
-> 💡 **CLAUDE.md 파일이 자동으로 인식되어 학습 시스템이 즉시 활성화됩니다!**
+> ✨ **CLAUDE.md 파일이 자동으로 인식되어 AI 튜터가 즉시 활성화됩니다!**
 
 ### 4. (선택) Obsidian 연동
 
