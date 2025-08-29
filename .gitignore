@@ -1,0 +1,37 @@
+# Personal Study Sessions
+sessions/*/
+!sessions/.gitkeep
+!sessions/example/
+
+# Personal Analysis
+analysis/*.md
+!analysis/.gitkeep
+!analysis/template.md
+
+# Personal Topics  
+topics/*/*
+!topics/*/.gitkeep
+!topics/*/example.md
+
+# Obsidian Personal Notes
+obsidian/*.md
+!obsidian/.gitkeep
+!obsidian/template.md
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# Logs
+*.log
