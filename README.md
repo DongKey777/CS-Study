@@ -201,13 +201,6 @@ WHERE, ORDER BY, JOIN 조건에 사용됩니다."
 
 MIT License - 자유롭게 사용하고 수정하세요!
 
-## 🙏 감사의 말
-
-- Anthropic Claude 팀
-- 빅테크 기업들의 기술 블로그
-- CS 면접 준비하는 모든 개발자들
-
----
 
 **만든이**: [@yourusername](https://github.com/yourusername)  
 **문의**: your.email@example.com
